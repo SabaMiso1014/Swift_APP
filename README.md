@@ -1,6 +1,6 @@
 # Swiftアプリ開発_自己学習
 - こちらのリポジトリは、Swiftのアプリをアップロードしております。
-- ドキュメント,書籍,Udemy講座を参考にしながら作成しました。
+- ドキュメント,書籍,Udemyを参考にしながら作成しました。
 - 書籍
   - https://www.amazon.co.jp/dp/B08BWWFFD8/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1
 - Udemy
